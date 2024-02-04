@@ -19,7 +19,7 @@ HTML/CSS: Structuring and styling the game components.
 Clone the project
 
 ```bash
-  git clone https://github.com/vpandey6398/rock-paper-scissor.git
+  git clone https://github.com/shann592/rock-paper-scissor.git
 ```
 
 Go to the project directory
