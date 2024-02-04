@@ -160,6 +160,7 @@ button.scissor {
 .modal p {
   font-size: 20px;
   font-style: oblique;
+  color: #000;
 }
 
 h1 {
